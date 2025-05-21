@@ -1,0 +1,5 @@
+4. ¿Cuáles son algunas estrategias que usarías para optimizar el rendimiento de consultas SQL en grandes conjuntos de datos?
+
+Una muy importante en mi concepto seria la indexacion de tablas ya que nos ayuda a optimizar estas,
+tambien otra muy importante seria la particion de losdatos por fechas en cada tabla ya que nos permite ahorrarnos tiempos de carga y evitar congestionar algun servidor,
+en rusumen seria divide y venceras.
